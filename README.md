@@ -48,20 +48,7 @@ The app allows users to share photos and videos, like and comment on posts, view
 
 ## 📸 Screenshots
 
-Replace the filenames with your actual screenshots in `assets/screenshots/`:
 
-```md
-<p align="center">
-  <img src="assets/screenshots/login.png" width="300" />
-  <img src="assets/screenshots/home_feed.png" width="300" />
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/profile.png" width="300" />
-  <img src="assets/screenshots/upload_post.png" width="300" />
-</p>
-
-<p align="center">
   <img src="assets/screenshots/comments.png" width="300" />
   <img src="assets/screenshots/story_viewer.png" width="300" />
 </p>
